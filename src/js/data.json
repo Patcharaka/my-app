@@ -1,0 +1,29 @@
+{
+    "member" : [
+        {
+            "_id": 1,
+            "firstName":"Patchara",
+            "lastName": "Kaewlamul",
+            "gender": "Female",
+            "phoneNumber": "+668333476593",
+            "nationality": "Thai"
+          },
+          {
+            "_id": 2,
+            "firstName": "Patcharee",
+            "lastName": "jaidee",
+            "gender": "Female",
+            "phoneNumber": "+6683880000",
+            "nationality": "Thai"
+          },
+          {
+            "_id": 3,
+            "firstName": "Patcharin ",
+            "lastName ":  "sandee ",
+            "gender ":  "Female ",
+            "phoneNumber ": "+66823076593 ",
+            "nationality ":  "Thai "
+          }
+        
+    ]
+}

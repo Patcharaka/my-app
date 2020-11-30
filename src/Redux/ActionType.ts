@@ -1,0 +1,11 @@
+enum ActionType {
+  NO_CHANGE,
+  LOADING_INTI,
+  LOADING_CHANGE,
+
+  MANAGE_MEMBER_INIT,
+  MANAGE_MEMBER_CHANGE,
+  MANAGE_MEMBER_LIST_CHANGE,
+}
+
+export default ActionType
